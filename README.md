@@ -8,5 +8,5 @@ Repository for Machine Learning Exercises
 
 
 
-Robotics Engineering Master - 2nd year   
-University of Genoa
+***Robotics Engineering Master - 2nd year***   
+***University of Genoa***
